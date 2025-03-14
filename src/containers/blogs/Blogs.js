@@ -1,3 +1,4 @@
+/*
 import React, {useState, useEffect, useContext} from "react";
 import "./Blog.scss";
 import BlogCard from "../../components/blogCard/BlogCard";
@@ -97,3 +98,4 @@ export default function Blogs() {
     </Fade>
   );
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import React, {useContext} from "react";
 import "./Podcast.scss";
 import {podcastSection} from "../../portfolio";
@@ -52,3 +53,4 @@ export default function Podcast() {
     </Fade>
   );
 }
+*/
