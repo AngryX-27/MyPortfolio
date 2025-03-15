@@ -3,6 +3,17 @@
   "name": "myportfolio",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts build",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
+    "fetch": "node fetch.js",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
+    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
+  },
   "dependencies": {
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
@@ -19,16 +30,6 @@
     "react-test-renderer": "^16.10.2",
     "react-twitter-embed": "3.0.3",
     "sass": "^1.32.8"
-  },
-  "scripts": {
-    "predeploy": "npm run build",
-    "start": "react-scripts build",
-    "build": "node fetch.js && react-scripts build",
-    "deploy": "gh-pages -b main -d build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
-    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
   },
   "eslintConfig": {
     "extends": "react-app"
