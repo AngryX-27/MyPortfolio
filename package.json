@@ -1,10 +1,10 @@
 {
-  "homepage": "https://AngryX-27.github.io/MyPortfolio/",
   "name": "myportfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://AngryX-27.github.io/MyPortfolio",
   "scripts": {
-    "start": "react-scripts build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build",
