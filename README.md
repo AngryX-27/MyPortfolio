@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![My Portfolio Preview](https://ibb.co.com/BK2N6rjV)](https://angryx-27.github.io/MyPortfolio/)
+[![My Portfolio Preview](https://ltdfoto.ru/images/2025/03/23/SNIMOK-EKRANA-2025-03-23-V-06.59.14.png)](https://angryx-27.github.io/MyPortfolio/)
 
 **[View Live Preview](https://angryx-27.github.io/MyPortfolio/)**
 
