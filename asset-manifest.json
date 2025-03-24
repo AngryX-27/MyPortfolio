@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.cdc3face.css",
-    "main.js": "/MyPortfolio/static/js/main.0ca1a70e.js",
+    "main.js": "/MyPortfolio/static/js/main.cb01c08f.js",
     "static/css/64.bba8fa55.chunk.css": "/MyPortfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.00e7f1b4.chunk.js": "/MyPortfolio/static/js/64.00e7f1b4.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/MyPortfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.e13d3e45.chunk.js": "/MyPortfolio/static/js/769.e13d3e45.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/MyPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/MyPortfolio/static/media/resume.9e8cb02b1ad5ff8cade8.pdf",
     "static/media/crypto-logo-2.png": "/MyPortfolio/static/media/crypto-logo-2.ed712de5d353e0f9ec74.png",
     "static/media/Agustina.woff": "/MyPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/freelancer-logo-2.png": "/MyPortfolio/static/media/freelancer-logo-2.caadb4a2e0a84295b2dd.png",
@@ -19,12 +20,11 @@
     "static/media/googleAssistantLogo.webp": "/MyPortfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/codeInLogo.webp": "/MyPortfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/MyPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/MyPortfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/pwaLogo.webp": "/MyPortfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "static/media/nextuLogo.webp": "/MyPortfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/MyPortfolio/index.html",
     "main.cdc3face.css.map": "/MyPortfolio/static/css/main.cdc3face.css.map",
-    "main.0ca1a70e.js.map": "/MyPortfolio/static/js/main.0ca1a70e.js.map",
+    "main.cb01c08f.js.map": "/MyPortfolio/static/js/main.cb01c08f.js.map",
     "64.bba8fa55.chunk.css.map": "/MyPortfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.00e7f1b4.chunk.js.map": "/MyPortfolio/static/js/64.00e7f1b4.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/MyPortfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.cdc3face.css",
-    "static/js/main.0ca1a70e.js"
+    "static/js/main.cb01c08f.js"
   ]
 }
